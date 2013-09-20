@@ -25,10 +25,10 @@
     }
   ],
   "dependencies": {
-    "lodash": "",
+    "lodash": "1",
     "async": "",
     "cloudinary": "",
-    "nodestrum": "",
+    "nodestrum": "0.3",
     "node-ckeditor": ""
   },
   "devDependencies": {
